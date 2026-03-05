@@ -1,0 +1,13 @@
+body, h2 {margin: 0;}
+
+.site-header{ max-width: 600px; margin:auto; padding:0px; font-family: "futura-pt-bold", sans-serif; }
+
+.main-content{max-width: 600px; padding: 10px; margin: auto; font-family: "roboto", sans-serif; font-weight: 400; line-height: 1.5; 
+}
+
+.paragraph-box{background-color: rgb(245, 243, 243); margin: 0;}
+
+.main-content-paragraph{padding-top: 30px; line-height: 1.5;}
+
+.hero-image{width: 100%; max-width: 600px; height: auto;  border-bottom-style: solid; border-bottom-color: #ffbd00; border-bottom-width: 3px; padding-top:40px; display: block;
+}
